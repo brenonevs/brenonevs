@@ -10,7 +10,7 @@
 
 - 🌱 Estudando **Machine Learning, Data Science e Java.**
 
-- 📫 Entre em contato: **E-mail: brenobraganevs@gmail.com, Telefone: +55(21)98231-5230
+- 📫 Entre em contato: **E-mail: brenobraganevs@gmail.com, Telefone: +55(21)98231-5230**
 
 - ⚡ Curiosidades **Utilizo minha página no GitHub para compartilhar aplicativos e softwares desenvolvidos como parte do DEVIT, um projeto pessoal.**
 
