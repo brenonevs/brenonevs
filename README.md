@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Atualmente estou trabalhando no **laboratório de engenharia de software LES/OPUS.**<br><br>- 🌱 Estudando **Machine Learning, Data Science e Java.**<br><br>- 📫 Entre em contato: **E-mail: brenobraganevs@gmail.com, Telefone: +55(21)98231-5230**<br><br>- ⚡ Curiosidades **Utilizo minha página no GitHub para compartilhar aplicativos e softwares desenvolvidos como parte do DEVIT, um projeto pessoal.**
+- 🔭 Atualmente estou trabalhando no **laboratório de engenharia de software LES/OPUS e no StoneLab PUC-RIO**<br><br>- 🌱 Estudando **Machine Learning, Data Science e Java.**<br><br>- 📫 Entre em contato: **E-mail: brenobraganevs@gmail.com, Telefone: +55(21)98231-5230**<br><br>- ⚡ Curiosidades **Utilizo minha página no GitHub para compartilhar aplicativos e softwares desenvolvidos como parte do DEVIT, um projeto pessoal.**
 
 
 ## 🌐 Socials:
