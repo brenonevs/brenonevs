@@ -1,4 +1,4 @@
-<h2 align="left">Bem-vindo ao meu GitHub! 🌟<br><br>Olá! Sou estudante de Engenharia de Computação na PUC-Rio e atualmente integro o StoneLab, onde realizo pesquisas em Deep Learning.<br><br>Nos meus momentos livres, me dedico ao estudo de Internet das Coisas (IoT), Machine Learning e Automação. Aqui no meu GitHub, você encontrará alguns dos meus projetos pessoais desenvolvidos ao longo da minha jornada acadêmica.<br><br>Sinta-se à vontade para explorar, dar um fork e colaborar! Vamos aprender e construir juntos! 🚀]</h2>
+<h2 align="left">Bem-vindo ao meu GitHub! 🌟<br><br>Olá! Sou estudante de Engenharia de Computação na PUC-Rio e atualmente integro o StoneLab, onde realizo pesquisas em Deep Learning.<br><br>Nos meus momentos livres, me dedico ao estudo de Internet das Coisas (IoT), Machine Learning e Automação. Aqui no meu GitHub, você encontrará alguns dos meus projetos pessoais desenvolvidos ao longo da minha jornada acadêmica.<br><br>Sinta-se à vontade para explorar, dar um fork e colaborar! Vamos aprender e construir juntos! 🚀/h2>
 
 ###
 
