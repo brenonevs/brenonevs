@@ -65,8 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brenonevs/brenonevs/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
